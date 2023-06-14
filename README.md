@@ -1,2 +1,2 @@
 # Machine and Deep_Learning
-Machine and Deep Learning codes anda dataset
+Machine and Deep Learning codes and dataset
